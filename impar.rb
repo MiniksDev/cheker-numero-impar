@@ -1,4 +1,4 @@
-#ruby 2.5.3
+#Versão do ruby: 2.5.3
 
 aux = 0
 print "Insira o número para avaliar: "
