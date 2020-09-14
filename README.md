@@ -1,6 +1,6 @@
-### Programa que cheka se o numero é impar
+### Programa que cheka se o numero é primo ou não
 
 Use:
-```ruby impar.rb```
+```ruby prim.rb```
 
 Para rodar o codigo
